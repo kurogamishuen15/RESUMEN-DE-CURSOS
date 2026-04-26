@@ -8,7 +8,7 @@ Estoy emocionado de compartirles los resúmenes de los cursos que estoy viendo s
 <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/4162b1f3-1aa2-4a71-b9ce-cf9163a375b3" />
 
 
-👇 Abajo les dejaré los resúmenes organizados en carpetas dentro de este repositorio, en formato .txt y .html.
+👇 Abajo les dejaré los resúmenes organizados en carpetas dentro de este repositorio, en html.
 
 Además, también incluiré links a plataformas como Notion o Evernote para que sea más fácil y cómodo revisarlos.
 

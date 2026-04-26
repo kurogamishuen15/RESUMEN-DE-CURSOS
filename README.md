@@ -1,5 +1,4 @@
 # RESUMEN-DE-CURSOS
-# RESUMEN-DE-CURSOS
 👋 Hola a todos!
 
 Estoy emocionado de compartirles los resúmenes de los cursos que estoy viendo sobre redes, informática y programación 📚💻
